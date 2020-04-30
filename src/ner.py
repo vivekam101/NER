@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-#    Copyright (C) 2019-TODAY Cleareye.ai(<https://www.cleareye.ai>)
-#    Author: Cleareye.ai(<https://www.cleareye.ai>)
-
 import numpy as np
 import os
 from keras.models import load_model
