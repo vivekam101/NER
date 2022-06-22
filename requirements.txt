@@ -7,7 +7,7 @@ joblib==0.14.1
 Keras==2.1.2
 Markdown==3.2.1
 nltk==3.5
-numpy==1.18.3
+numpy==1.22.0
 regex==2020.4.4
 scipy==1.4.1
 six==1.14.0
